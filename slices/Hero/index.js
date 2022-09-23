@@ -10,14 +10,14 @@ const Hero = ({ slice }) => {
 
   return (
     <section className='relative bg-slate-900 text-white'>
-      {/* {prismicH.isFilled.image(backgroundImage) && (
+      {prismicH.isFilled.image(backgroundImage) && (
         <PrismicNextImage
           field={backgroundImage}
           alt=''
           layout='fill'
           className='pointer-events-none select-none object-cover opacity-40'
         />
-      )} */}
+      )}
       <Bounded yPadding='lg' className='relative'>
         <ContentArea {...slice.primary} />
       </Bounded>

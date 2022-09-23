@@ -12,7 +12,8 @@
     "lint": "next lint",
     "slicemachine": "start-slicemachine",
     "format": "prettier --write .",
-    "storybook": "start-storybook -p 8888"
+    "storybook": "start-storybook -p 6006 -s ./public",
+    "build-storybook": "build-storybook -s public"
   },
   "dependencies": {
     "@prismicio/client": "^6.6.3",
@@ -24,7 +25,8 @@
     "clsx": "^1.2.1",
     "next": "12.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "storybook-addon-next": "^1.6.9"
   },
   "devDependencies": {
     "@prismicio/types": "^0.2.0",
