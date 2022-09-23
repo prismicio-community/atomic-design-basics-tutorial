@@ -14,7 +14,6 @@ const components = {
 }
 
 export const ContentArea = ({ text, buttonLink, buttonText }) => {
-  console.log({ text, buttonLink, buttonText })
   return (
     <div className='grid justify-items-center gap-8'>
       <div className='max-w-2xl text-center'>

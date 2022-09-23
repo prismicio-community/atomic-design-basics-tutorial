@@ -1,0 +1,32 @@
+{
+  "image": {
+    "dimensions": {
+      "width": 2200,
+      "height": 1200
+    },
+    "alt": null,
+    "copyright": null,
+    "url": "https://images.prismic.io/nextjs-starter-prismic-multi-page/54ed64ba-fffc-484f-b944-c19455839a8a_laura-landers-6OJR36yZjY4-unsplash.jpg?auto=compress,format&rect=0,1741,3648,1990&w=2200&h=1200"
+  },
+  "text": [
+    {
+      "type": "paragraph",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis eu hac volutpat velit donec scelerisque. Vel pellentesque tellus facilisis integer blandit porttitor posuere aliquam amet. In nisl pulvinar cursus diam faucibus arcu quam. Ut ullamcorper ipsum sit ullamcorper est consequat. ",
+      "spans": []
+    }
+  ],
+  "buttonLink": {
+    "id": "YnHYzBMAACUAmWAj",
+    "type": "page",
+    "tags": [],
+    "lang": "en-us",
+    "slug": "more-info",
+    "first_publication_date": "2022-05-04T01:37:19+0000",
+    "last_publication_date": "2022-05-04T01:37:19+0000",
+    "uid": "more-info",
+    "url": "/more-info",
+    "link_type": "Document",
+    "isBroken": false
+  },
+  "buttonText": "More info"
+}

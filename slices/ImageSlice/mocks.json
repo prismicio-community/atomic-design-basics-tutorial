@@ -1,0 +1,22 @@
+{
+  "slice": {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [{}],
+    "primary": {
+      "image": {
+        "dimensions": {
+          "width": 6000,
+          "height": 4000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/nextjs-starter-prismic-multi-page/8a71d293-f86f-4e78-9baf-131158480e5b_lance-anderson-QdAAasrZhdk-unsplash.jpg?auto=compress,format"
+      }
+    },
+    "id": "image$b11cedc4-45ac-443b-8df5-34f7f209e305",
+    "slice_type": "image",
+    "slice_label": null
+  },
+  "index": 2
+}

@@ -1,0 +1,20 @@
+{
+  "slice": {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [{}],
+    "primary": {
+      "quote": [
+        {
+          "type": "heading3",
+          "text": "Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
+          "spans": []
+        }
+      ],
+      "source": "Jane Doe"
+    },
+    "id": "quote$41fffa29-667f-4557-b99b-508a6bff5621",
+    "slice_type": "quote",
+    "slice_label": null
+  }
+}

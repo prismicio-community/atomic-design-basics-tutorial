@@ -1,0 +1,47 @@
+{
+  "slice": {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [{}],
+    "primary": {
+      "text": [
+        {
+          "type": "heading1",
+          "text": "Margaret Smith",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede asdf.",
+          "spans": []
+        }
+      ],
+      "buttonLink": {
+        "id": "YnHYTBMAACUAmV3l",
+        "type": "page",
+        "tags": [],
+        "lang": "en-us",
+        "slug": "about",
+        "first_publication_date": "2022-05-04T01:35:11+0000",
+        "last_publication_date": "2022-05-31T23:46:23+0000",
+        "uid": "about",
+        "url": "/about",
+        "link_type": "Document",
+        "isBroken": false
+      },
+      "buttonText": "Learn more",
+      "backgroundImage": {
+        "dimensions": {
+          "width": 5415,
+          "height": 3726
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/nextjs-starter-prismic-multi-page/3ecae729-d8c2-4872-9cb9-f14d27729d40_max-denisov-iZj-mdpJHq8-unsplash.jpg?auto=compress,format"
+      }
+    },
+    "id": "hero$66fcce87-7373-4231-b967-1de3a69c1fef",
+    "slice_type": "hero",
+    "slice_label": null
+  }
+}

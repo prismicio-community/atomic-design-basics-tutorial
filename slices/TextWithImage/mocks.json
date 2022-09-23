@@ -1,0 +1,37 @@
+{
+  "slice": {
+    "variation": "withButton",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [{}],
+    "primary": {
+      "text": [
+        {
+          "type": "heading1",
+          "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis eu hac volutpat velit donec scelerisque. Vel pellentesque tellus facilisis integer blandit porttitor posuere aliquam amet.",
+          "spans": []
+        }
+      ],
+      "buttonLink": {
+        "link_type": "Any"
+      },
+      "buttonText": null,
+      "image": {
+        "dimensions": {
+          "width": 1000,
+          "height": 1200
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/nextjs-starter-prismic-multi-page/fcb2333d-d2b2-4cdc-acdd-f9558703472d_anders-jilden-Sc5RKXLBjGg-unsplash.jpg?auto=compress,format&rect=533,0,1333,1600&w=1000&h=1200"
+      }
+    },
+    "id": "text_with_image$4f3e6dbc-fc58-489c-891e-0ae46c1ba0d5",
+    "slice_type": "text_with_image",
+    "slice_label": null
+  }
+}

@@ -1,21 +1,19 @@
 import * as prismicH from '@prismicio/helpers'
-import { PrismicNextImage } from '@prismicio/next'
 
 import { Bounded } from '../../components/Bounded'
 import { ContentArea } from '../../components/ContentArea'
+import { Image } from '../../components/Image'
 
 const Hero = ({ slice }) => {
-  console.log({ slice })
   const backgroundImage = slice.primary.backgroundImage
 
   return (
-    <section className='relative bg-slate-900 text-white'>
+    <section className='relative overflow-hidden bg-slate-900 text-white'>
       {prismicH.isFilled.image(backgroundImage) && (
-        <PrismicNextImage
+        <Image
           field={backgroundImage}
-          alt=''
           layout='fill'
-          className='pointer-events-none select-none object-cover opacity-40'
+          className='pointer-events-none absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 select-none object-cover opacity-40'
         />
       )}
       <Bounded yPadding='lg' className='relative'>

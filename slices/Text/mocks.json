@@ -1,0 +1,34 @@
+{
+  "slice": {
+    "variation": "twoColumns",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [{}],
+    "primary": {
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis eu hac volutpat velit donec scelerisque. Vel pellentesque tellus facilisis integer blandit porttitor posuere aliquam amet. In nisl pulvinar cursus diam faucibus arcu quam. Ut ullamcorper ipsum sit ullamcorper est consequat. Mattis commodo urna duis nisl mollis tortor adipiscing. Dignissim praesent nec quis vel gravida purus laoreet semper. Leo nam vitae felis sit eget viverra nulla ultricies. Iaculis diam odio vel egestas. Quis erat in dignissim id id. Pulvinar varius scelerisque proin risus erat sit nec. Tortor quam volutpat sagittis cursus. In id nunc ligula morbi faucibus velit faucibus etiam.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Tortor mauris magna morbi in laoreet. Purus tortor fames lorem vestibulum, a ultrices. Gravida rhoncus pharetra, eleifend scelerisque feugiat nunc feugiat. Faucibus donec sed ac ut sit eget morbi tincidunt aliquam. Porttitor nulla facilisis in iaculis scelerisque nulla nunc. Ut bibendum tellus sit non non ac sit. Risus faucibus duis mauris rhoncus pretium, gravida in habitasse fermentum. Ipsum cras id in netus sit nunc quisque varius. Nam faucibus viverra sapien adipiscing sed enim.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie nulla ac cum netus luctus odio. Maecenas vel mattis sem maecenas risus metus neque vulputate adipiscing. Massa semper sit ultrices viverra ullamcorper gravida mattis ullamcorper non. Amet, nisl laoreet aliquam et.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Nibh sit purus ligula ut. Sed dictum facilisi blandit interdum habitasse nunc mi quam eros. Nec maecenas a morbi id elit vestibulum venenatis elit morbi. Nisl ac suspendisse placerat orci quam iaculis. Diam nullam quis accumsan ultrices ultricies et consectetur mi. Non ornare sed id faucibus. Ultrices at adipiscing lectus egestas tempor amet. Cursus ut nibh sapien tristique etiam. Mattis tellus nulla varius neque pharetra massa volutpat velit. Vivamus in pellentesque mus eu metus a. Consequat sed eget tempus egestas vitae interdum ornare eget egestas.",
+          "spans": []
+        }
+      ]
+    },
+    "id": "text$4c16ce0e-511c-42e9-8002-86a3d163e7e2",
+    "slice_type": "text",
+    "slice_label": null
+  }
+}

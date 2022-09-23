@@ -1,0 +1,24 @@
+import { Meta, Story, Preview, ArgsTable } from '@storybook/addon-docs'
+import { default as Component } from './'
+import mocks from './mocks.json'
+
+<Meta
+  title='Components/Organisms (Slices)/ImageCards'
+  component={Component}
+  parameters={{
+    actions: { handles: ['click a'] },
+  }}
+/>
+
+# ImageCards
+
+Lorem Ipsum
+
+<Preview withToolbar>
+  <Story name='ImageCards' args={mocks}>
+    {args => <Component {...args} />}
+  </Story>
+  <div />
+</Preview>
+
+<ArgsTable story='ImageCards' />
