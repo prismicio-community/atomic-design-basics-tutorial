@@ -10,11 +10,7 @@ const Hero = ({ slice }) => {
   return (
     <section className='relative overflow-hidden bg-slate-900 text-white'>
       {prismicH.isFilled.image(backgroundImage) && (
-        <Image
-          field={backgroundImage}
-          layout='fill'
-          className='pointer-events-none absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 select-none object-cover opacity-40'
-        />
+        <Image field={backgroundImage} alt='' layout='fill' className='pointer-events-none object-cover opacity-40' />
       )}
       <Bounded yPadding='lg' className='relative'>
         <ContentArea {...slice.primary} />

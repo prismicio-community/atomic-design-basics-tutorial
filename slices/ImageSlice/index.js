@@ -11,7 +11,7 @@ const ImageSlice = ({ slice, index }) => {
     <Bounded as='section' className={clsx('bg-white', index === 0 && 'pt-0 md:pt-0')}>
       {prismicH.isFilled.image(image) && (
         <div className='bg-gray-100'>
-          <Image field={image} layout='responsive' />
+          <Image field={image} alt='' layout='responsive' />
         </div>
       )}
     </Bounded>

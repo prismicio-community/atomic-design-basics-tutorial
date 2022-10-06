@@ -16,7 +16,7 @@ export const ImageCard = ({ image, text, buttonLink, buttonText }) => {
               </PrismicLink>
             )}
           >
-            <Image field={image} layout='responsive' />
+            <Image field={image} alt='' layout='responsive' />
           </ConditionalWrap>
         </div>
       )}
