@@ -1,9 +1,10 @@
-# Prismic + Next.js Multi-Page Starter
+# Get Started with Atomic Design Systems
 
-Want to see an example of a multi-page website using [Prismic][prismic] and [Next.js][nextjs]? Look no further! This project provides all the code you need for a personal website with a homepage, information pages, and navigation.
+Want to learn the basics of building your own atomic design system? And then connect it to a CMS that takes the benefits of atomic design to content editors? Check out this starter project and follow along in a tutorial over on our blog:
 
+
+- **Follow Along**: [Open the tutorial][atomic-design-tutorial]
 - **Demo**: [Open live demo][live-demo]
-- **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
 
 &nbsp;
 
@@ -11,31 +12,9 @@ Want to see an example of a multi-page website using [Prismic][prismic] and [Nex
 
 &nbsp;
 
-## 🚀 Quick Start
-
-To start a new project using this starter, run the following commands in your terminal:
-
-```sh
-npx degit prismicio-community/nextjs-starter-prismic-multi-page your-project-name
-cd your-project-name
-npx @slicemachine/init
-```
-
-The commands will do the following:
-
-1. Start a new Next.js project using this starter.
-2. Ask you to log in to Prismic or [create an account][prismic-sign-up].
-3. Create a new Prismic content repository with sample content.
-
-When you're ready to start your project, run the following command:
-
-```sh
-npm run dev
-```
-
 ## Documentation
 
-To learn how to work with your new project, [**see this starter's docs**][starter-docs].
+This project uses Prismic's Next.js starter to provide all the boilerplate we need to focus in on atomic design. To learn more about this starter project, [**see this starter's docs**][starter-docs].
 
 To learn more about working with Prismic, [**see the Prismic docs**][prismic-docs].
 
@@ -58,6 +37,7 @@ limitations under the License.
 ```
 
 [prismic]: https://prismic.io/
+[atomic-design-tutorial]: https://prismic.io/blog/atomic-design-system
 [prismic-docs]: https://prismic.io/docs/technologies/nextjs
 [prismic-sign-up]: https://prismic.io/dashboard/signup
 [nextjs]: https://nextjs.org/
