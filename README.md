@@ -37,7 +37,7 @@ limitations under the License.
 ```
 
 [prismic]: https://prismic.io/
-[atomic-design-tutorial]: https://prismic.io/blog/atomic-design-system
+[atomic-design-tutorial]: https://prismic.io/blog/atomic-design-system-example-tutorial
 [prismic-docs]: https://prismic.io/docs/technologies/nextjs
 [prismic-sign-up]: https://prismic.io/dashboard/signup
 [nextjs]: https://nextjs.org/
