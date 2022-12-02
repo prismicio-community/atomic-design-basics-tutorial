@@ -38,7 +38,7 @@
     "@tailwindcss/aspect-ratio": "^0.4.0",
     "autoprefixer": "^10.4.8",
     "concurrently": "^7.3.0",
-    "eslint": "8.21.0",
+    "eslint": "8.29.0",
     "eslint-config-next": "12.2.4",
     "eslint-plugin-storybook": "^0.6.4",
     "node-fetch": "^3.2.10",
